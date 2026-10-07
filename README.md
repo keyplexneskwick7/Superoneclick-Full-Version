@@ -231,4 +231,4 @@ This repository serves as the official landing page for SuperOneClick. The softw
 **Get the most recent version of SuperOneClick today!**
 
 ---
-**Last updated:** 2026-10-06 22:35:11 UTC
+**Last updated:** 2026-10-07 02:13:05 UTC
